@@ -66,10 +66,6 @@ Check out the live version of the project here: [Fashion Shopping Cart](https://
 5. **Open the app:**
    - Visit `http://localhost:3000` in your browser.
 
-## 📸 Screenshots
-
-(Include some UI screenshots of the app)
-
 ## 📜 License
 
 This project is licensed under the MIT License.
